@@ -8,6 +8,18 @@
 }
   
 /* Start typography styles */
+	.h1,
+	.h2,
+	.h3,
+	.label,
+	.button,
+	.large-body-text,
+	.body-text,
+	.blockquote {
+		Font-family: 'Montserrat'!important;
+	}
+
+
   .h1.h1.h1.h1 {
       font-family: 'The Seasons', serif;
       font-size: 36px;
