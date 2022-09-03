@@ -1,0 +1,127 @@
+@font-face {
+  font-family: 'The Seasons';
+  src: url('https://file.ontraport.com/media/2f1893b5fcaf483b81505c99e93f96d1.phpbhbsjg?Expires=1808670045&Signature=CVheLYHY6mUM~W9U2M2OtTyjff5Fv~ThXsgc9fLljhS785Bo3YDX4XiWXdUjqXaJnhj2J4UfXvMEZTW~kWi64mh78IW7ll5b-MJ72lTmYD~BSevLzaDjotAMKkTB6xpGzNseSN1p59ol80hVgmpX9EG94Ad9icvXw139g2YejPSGMLVf9ggLpyY9QdDzX2g1zOyJWoZdnl7bZxKLgmjT2S4~DGzAqS1MZ~~~sjeni15766ZpbH4nATnQeh3GebEw9JWAt58fW5CvKvdRrYyKbvebjAm39QUiew0JlL5lIdbWjEFULlMOWcszmj5y7XgP401X3KUWpW4oE8CZJb2FGg__&Key-Pair-Id=APKAJVAAMVW6XQYWSTNA'); /* IE9+ Compat Modes */
+  src: url('https://file.ontraport.com/media/2f1893b5fcaf483b81505c99e93f96d1.phpbhbsjg?Expires=1808670045&Signature=CVheLYHY6mUM~W9U2M2OtTyjff5Fv~ThXsgc9fLljhS785Bo3YDX4XiWXdUjqXaJnhj2J4UfXvMEZTW~kWi64mh78IW7ll5b-MJ72lTmYD~BSevLzaDjotAMKkTB6xpGzNseSN1p59ol80hVgmpX9EG94Ad9icvXw139g2YejPSGMLVf9ggLpyY9QdDzX2g1zOyJWoZdnl7bZxKLgmjT2S4~DGzAqS1MZ~~~sjeni15766ZpbH4nATnQeh3GebEw9JWAt58fW5CvKvdRrYyKbvebjAm39QUiew0JlL5lIdbWjEFULlMOWcszmj5y7XgP401X3KUWpW4oE8CZJb2FGg__&Key-Pair-Id=APKAJVAAMVW6XQYWSTNA') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://file.ontraport.com/media/45d57303ddff4f8cbe07e78eda712cd8.phpyxcnhs?Expires=1808669819&Signature=RJNLHbK5A7xttZYOoXTwDEXSeifm86RWJxvqlpm~M5Qgh4yHVeEQlqNVIeqIXDXrEWxOPoIclvAZNtKHKmyHK7z8qDk4nc-~tNW8Lh6UnWXgIeGaS675ktZOP5oFD2RtpvG6SQxPA3Q7xqXOsbstdW-XYIZTnV6zuRPjZF8Y7rgvYKDtkR9uV82iQyRC8RPPjauq5l9w0wLQw7yUObRVuqESCfoa12j0C5wk0kmh7wGJMS9TLB3rRy9emonUyIrecbGGN5X1Ge5Rb6Va8plaa~wBVcrCzHzPbm4DtsJio3GHKnZaM0eCqK~2SDiyTwWTU77aMhPK8wqk7Z4UispQOA__&Key-Pair-Id=APKAJVAAMVW6XQYWSTNA') format('woff'), /* Modern browsers */
+       url('https://file.ontraport.com/media/5c60449043cf4139b6491aa55fcb6cf0.phpyh7th7?Expires=1808669968&Signature=Uwm~bxsMD7dFt5ho253Swl~JVOJPgkBGFZIfLFoW1cnacMxGwICrj6Eb0pQ~OmqJPjUbQQBxPMG12cRf5yfCu0Y-WBHc2Qe4u0ZHspAH4~REcLQaSawi-Jv4461~rLOwCrUd6v-nG~9nvBLjV9qkCb~tgDIi6xErjM1LT3E5haSN-EYKj9GVDH~QxbWD-5watb3iev9Ya0EDTiD1XCW3KXhiEY-xdE0VxVVxfyQSi7XlCsNXXiC0HLA0QNL6P94xVhp7G3K4NPFzJbhbpOtn5lF1cx1gBBqf-Q8emxzvKTTUsN5RRQSl1ndRNQEBIsF3tmRSmZLHadHXy3a5ghMOzw__&Key-Pair-Id=APKAJVAAMVW6XQYWSTNA')  format('truetype'), /* Safari, Android, iOS */
+       url('https://file.ontraport.com/media/95bd00636a0a47bbac70553af8874447.phpzaqgee?Expires=1808670004&Signature=eyU93BpJEOlhm-ij~vZpujlMwSR5z78GKgA3AMnbfG1krkQQZPtJpw7l00dX5bxlWRR~NMBybKUmhakpujjZUbnyLgH50ExDwaonxGKCtLPMLXGjC4bxNsdR3kaoqIX-OXmvz2Wv~R0rfcAbS8jBMwV~bhRGE5F2~zpjZfhNIEMPSzgrUJO3WhCifoZ5FoCTaAa1PtgPvjAhSzkjvnneBCqcVdiQz0RCdQWLgaxeCsgZHIUgrErpmoMVZvbzpI7heVhNIFXMrEHGQ4n9lcij57aCnmJtE4pFWaQURUOIzbRYivR6qmLBYDFnzXCvq-tvYr7gY6F4XMXpvVOm8ggIOg__&Key-Pair-Id=APKAJVAAMVW6XQYWSTNA#The Seasons') format('svg'); /* Legacy iOS */
+}
+  
+/* Start typography styles */
+  .h1.h1.h1.h1 {
+      font-family: 'The Seasons', serif;
+      font-size: 36px;
+      line-height: 36px;
+      font-weight: 400;
+  }
+
+  .h2.h2.h2.h2 {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 30px;
+      line-height: 1.4em;
+      font-weight:500;
+  }
+
+  .h3.h3.h3.h3 {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 20px;
+      line-height: 1.4em;
+      font-weight: 500;
+    text-transform:uppercase;
+  }
+
+  .label.label.label.label {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 22px;
+      line-height: 1.2em;
+      font-weight: 500;
+  }
+
+  .button.button.button.button {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 16px;
+      line-height: 18px;
+      font-weight: 500;
+    text-transform: uppercase;
+  }
+
+  .large-body-text.large-body-text.large-body-text.large-body-text {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 19px;
+      line-height: 1.4em;
+  }
+
+  .body-text.body-text.body-text.body-text {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 16px;
+      line-height: 1.4em;
+  }
+
+  .blockquote.blockquote.blockquote.blockquote {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 16px;
+      line-height: 1.4em;
+      font-weight: 400;
+  }
+  
+	/* Start mobile styles */
+  @media only screen and (max-width: 600px) {
+    .h1.h1.h1.h1 {
+        font-family: 'The Seasons', serif;
+        font-size: 36px;
+        line-height: 40px;
+		font-weight:400;
+    }
+
+    .h2.h2.h2.h2 {
+        font-family: 'Montserrat', san-serif;
+        font-size: 28px;
+        line-height: 32px;
+        font-weight: 500;
+    }
+
+    .h3.h3.h3.h3 {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 20px;
+      line-height: 24px;
+      font-weight: 500;
+    text-transform:uppercase;
+  }
+
+    .label.label.label.label {
+        font-family: 'Montserrat', san-serif;
+        font-size: 12px;
+        line-height: 14px;
+		font-weight: 500;
+    }
+
+    .button.button.button.button {
+       font-family: 'Montserrat', sans-serif;
+        font-size: 17px;
+        line-height: 24px;
+        font-weight: 500;
+    }
+
+    .large-body-text.large-body-text.large-body-text.large-body-text {
+        font-family: 'Montserrat', san-serif;
+        font-size: 20px;
+        line-height: 28px;
+      	font-weight: 300;
+    }
+
+    .body-text.body-text.body-text.body-text {
+        font-family: 'Montserrat', san-serif;
+        font-size: 16px;
+        line-height: 24px;
+		font-weight: 400;
+    }
+
+    .blockquote.blockquote.blockquote.blockquote {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 24px;
+      line-height: 1.4em;
+      font-weight: 400;
+  }
+    /* End mobile styles */
+}
+  /* End typography styles */  
