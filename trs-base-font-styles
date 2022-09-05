@@ -1,0 +1,18 @@
+<!--custom styles starts here-->
+<style>
+
+
+  
+/* Start typography styles */
+.h1,
+.h2,
+.h3,
+.label,
+.button,
+.large-body-text,
+.body-text,
+.blockquote {
+	Font-family: 'Montserrat'!important;
+}
+  /* End typography styles */  
+</style>
